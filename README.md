@@ -5,9 +5,12 @@ Responsive portfolio website using React JS. This portfolio website is responsiv
 
 ## 🎬 Demonstration
 
-<!-- Opcional: inclua uma imagem ou GIF do seu projeto -->
-![![image](https://github.com/user-attachments/assets/200e2943-3b36-4e7e-ae56-b44f5f8a9959)
-](C:\Users\castr\portfolio-react\src\assets\cap1.png)
+
+![image](https://github.com/joanadecastro/portfolio-react/blob/main/src/assets/cap1.png)
+![image](https://github.com/joanadecastro/portfolio-react/blob/main/src/assets/cap2.png)
+![image](https://github.com/joanadecastro/portfolio-react/blob/main/src/assets/cap3.png)
+![image](https://github.com/joanadecastro/portfolio-react/blob/main/src/assets/cap4.png)
+
 
 ## 🚀 Features
 
