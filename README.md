@@ -23,7 +23,7 @@ Responsive portfolio website using React JS. This portfolio website is responsiv
 
 - Responsive user interface.
 - Smooth scroll.
-- functional contact form that is sent to the email address.
+- Functional contact form that is sent to the email address.
 
 ## 🛠️ Technologies Used
 
@@ -67,7 +67,15 @@ This project leverages these technologies to provide a fast, modern and responsi
 
 To run the project locally, follow these steps:
 
-1. Clone o repositório:
+### 1. Install Node.js and npm:
+  - Ensure that you have Node.js installed on your machine. Node.js comes with npm (Node Package Manager).
+  - You can download and install Node.js from nodejs.org. After installation, you can check if it's installed correctly by running the following commands in your terminal:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+    node -v
+    npm -v
+
+
+
+
+   
 
