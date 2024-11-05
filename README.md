@@ -69,7 +69,24 @@ To run the project locally, follow these steps:
    ```bash
     node -v
     npm -v
+```
+### 2. Clone the Repository:
+```bash
+   git clone https://github.com/joanadecastro/portfolio-react.git
+```
+### 3. Navigate to the project directory:
+```bash
+   cd portfolio-react
+```
 
+### 4. Install Dependencies:
+```bash
+   npm install
+```
+### 5. Start the project:
+```bash
+   npm run dev
+```
 
 
 
