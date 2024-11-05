@@ -87,7 +87,8 @@ To run the project locally, follow these steps:
 ```bash
    npm run dev
 ```
-
+### CONCLUSION:
+ - Following these steps will set you up to run a React project locally on your machine.
 
 
    
