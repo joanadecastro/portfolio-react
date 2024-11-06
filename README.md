@@ -1,12 +1,9 @@
+
+![Status do Projeto](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+
 # Portfolio Website
 
 Responsive portfolio website using React JS. This portfolio website is responsive and has a smooth scroll and a functional contact form that is sent to the email address.
-
-
-## 🚧 Project status
-
-![Status do Projeto](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
-  - The mobile part remains to be completed to finalize the project.
 
 ## 🎬 Demonstration
 
